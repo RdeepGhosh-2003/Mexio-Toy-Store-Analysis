@@ -180,7 +180,7 @@ This dashboard enables:
 
 ## 👨‍💻 Author
 
-**Raj**
+**Rajdeep Ghosh**
 
 ---
 
