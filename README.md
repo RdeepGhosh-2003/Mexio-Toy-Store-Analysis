@@ -39,20 +39,20 @@ It answers key business questions:
 ## 🖼️ Dashboard Preview
 
 ### 🟢 Executive Overview
-![Overview](<img width="659" height="376" alt="OVERVIEW" src="https://github.com/user-attachments/assets/ecb30911-563b-45a2-ab50-5baab7181789" />
-)
+<img width="659" height="376" alt="OVERVIEW" src="https://github.com/user-attachments/assets/c87540e2-48b9-4a7c-8ee8-ae0eada4fc27" />
+
 
 ### 🟠 Inventory Intelligence
-![Inventory](<img width="660" height="372" alt="INVENTORY INTELLIGENCE" src="https://github.com/user-attachments/assets/500c4f09-7ef0-444d-98a4-5e975e2b227c" />
-)
+<img width="660" height="372" alt="INVENTORY INTELLIGENCE" src="https://github.com/user-attachments/assets/500c4f09-7ef0-444d-98a4-5e975e2b227c" />
+
 
 ### 🔵 Product Analysis
-![Product](<img width="659" height="374" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/e0ad6e53-5f07-4ce8-9112-c987c3d55304" />
-)
+<img width="659" height="374" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/e0ad6e53-5f07-4ce8-9112-c987c3d55304" />
+
 
 ### 🔴 Store Performance
-![Store](<img width="659" height="373" alt="STORE PERFORMANCE" src="https://github.com/user-attachments/assets/460cf8ab-816e-45bd-9aa4-5b9bafda5ce6" />
-)
+<img width="659" height="373" alt="STORE PERFORMANCE" src="https://github.com/user-attachments/assets/460cf8ab-816e-45bd-9aa4-5b9bafda5ce6" />
+
 
 ---
 
