@@ -40,6 +40,7 @@ It answers key business questions:
 
 ### 🟢 Executive Overview
 <img width="659" height="376" alt="OVERVIEW" src="https://github.com/user-attachments/assets/c87540e2-48b9-4a7c-8ee8-ae0eada4fc27" />
+<img width="1554" height="873" alt="OVERVIEW" src="https://github.com/user-attachments/assets/4d0da1df-679e-4ef7-8b32-da4e02ad2b53" />
 
 
 ### 🟠 Inventory Intelligence
