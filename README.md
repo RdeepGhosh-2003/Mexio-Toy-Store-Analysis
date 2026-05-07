@@ -39,20 +39,19 @@ It answers key business questions:
 ## 🖼️ Dashboard Preview
 
 ### 🟢 Executive Overview
-<img width="659" height="376" alt="OVERVIEW" src="https://github.com/user-attachments/assets/c87540e2-48b9-4a7c-8ee8-ae0eada4fc27" />
 <img width="1554" height="873" alt="OVERVIEW" src="https://github.com/user-attachments/assets/4d0da1df-679e-4ef7-8b32-da4e02ad2b53" />
 
 
 ### 🟠 Inventory Intelligence
-<img width="660" height="372" alt="INVENTORY INTELLIGENCE" src="https://github.com/user-attachments/assets/500c4f09-7ef0-444d-98a4-5e975e2b227c" />
+<img width="1405" height="791" alt="INVENTORY ANALYSIS" src="https://github.com/user-attachments/assets/8789a76f-2080-4341-b8f5-83356f027279" />
 
 
 ### 🔵 Product Analysis
-<img width="659" height="374" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/e0ad6e53-5f07-4ce8-9112-c987c3d55304" />
+<img width="1415" height="806" alt="PRODUCT ANALYSIS" src="https://github.com/user-attachments/assets/fffc3921-58eb-4117-99c0-43ff2c1a7f80" />
 
 
 ### 🔴 Store Performance
-<img width="659" height="373" alt="STORE PERFORMANCE" src="https://github.com/user-attachments/assets/460cf8ab-816e-45bd-9aa4-5b9bafda5ce6" />
+<img width="1417" height="806" alt="STORE PERFORMANCE" src="https://github.com/user-attachments/assets/a5c8c09d-6211-4b38-96e2-41704c886338" />
 
 
 ---
